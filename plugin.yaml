@@ -1,0 +1,3 @@
+id: mattermost-plugin-demo
+backend:
+  executable: mattermost-plugin-demo
